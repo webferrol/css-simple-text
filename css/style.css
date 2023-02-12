@@ -1,0 +1,51 @@
+/* Seleccionar elementos */
+body{
+   background-color: #a7D9EF;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: justify;
+    text-indent: 1.5em;
+}
+
+mark{
+    background-color: white;
+    color: green;
+}
+
+
+
+
+/* Seleccionamos por nombre de clase */
+h1.titulo-principal  strong.destacado{
+    font-family: 'Cominc Sans', cursive;
+    color: red;
+
+}
+
+h2.title{
+    /* text-transform: uppercase; Pasar a mayúsculas*/
+    font-variant: small-caps; /*Versalitas*/
+}
+
+.destacado{
+   color: orange;
+}
+
+    em.destacado{
+       font-style: normal; 
+       font-weight: bold;
+    }
+
+.main-footer{
+    text-align: center;
+    font-style: italic;
+    font-size: .5em;
+}
+    .campo{
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+    }
+
