@@ -14,4 +14,4 @@ h1, h2, strong, em, mark, p
 
 ## Propiedades recomendas: 
 
-color, justify-content, background-color, text-indent
+color, text-align, background-color, text-indent, text-transform, font-variant
